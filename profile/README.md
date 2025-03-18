@@ -4,7 +4,7 @@ Here you can find laboratory works other people have done. If you want to share 
 ## How to use it
 1. Choose the lab you want to get
 2. Copy URL
-3. Write `git clone 'URL'` (it is very important to use single quote signs and write the URL within them)
+3. Write `git clone 'URL'` in the command line (it is very important to use single quote signs and write the URL within them)
 5. Work with code and have a nice crunch!
 
 How to copy example
